@@ -1,0 +1,59 @@
+{
+  "site_name": "亚影视",
+  "site_title": "亚洲电影资源库高清完整版在线播放涵盖热门与经典老片资源 - 亚影视",
+  "movie_count": 2000,
+  "category_count": 12,
+  "detail_page_count": 2000,
+  "video_source_count": 20,
+  "image_policy": "影片封面与 Hero 图片均引用站点顶级目录 1.jpg 到 150.jpg，未额外生成图片。",
+  "categories": {
+    "hot-picks": {
+      "name": "热门精选",
+      "count": 166
+    },
+    "chinese-cinema": {
+      "name": "华语专区",
+      "count": 166
+    },
+    "asian-dramas": {
+      "name": "亚洲影剧",
+      "count": 166
+    },
+    "western-classics": {
+      "name": "欧美经典",
+      "count": 167
+    },
+    "drama-family": {
+      "name": "剧情家庭",
+      "count": 167
+    },
+    "romance-comedy": {
+      "name": "爱情喜剧",
+      "count": 167
+    },
+    "action-crime": {
+      "name": "动作犯罪",
+      "count": 167
+    },
+    "mystery-thriller": {
+      "name": "悬疑惊悚",
+      "count": 167
+    },
+    "sci-fi-fantasy": {
+      "name": "科幻奇幻",
+      "count": 167
+    },
+    "horror-disaster": {
+      "name": "恐怖灾难",
+      "count": 167
+    },
+    "animation-variety": {
+      "name": "动画综艺",
+      "count": 166
+    },
+    "documentary-biography": {
+      "name": "纪录传记",
+      "count": 167
+    }
+  }
+}
